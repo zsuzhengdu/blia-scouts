@@ -1,390 +1,745 @@
-# Buddha’s Light Scouts Ottawa  
-## 2026–2027 Meeting Plan and Program Improvements
+# Buddha's Light Scouts Ottawa
 
-## 1. Parent Survey and Feedback Review
+## 2026--2027 Project-Based Program
 
-Based on parent and leader feedback, the following improvements should be considered for the 2026–2027 Scout year:
+### Overall Goal
 
-### Consistent Leader Support
-- Arrange for at least **one regular helper or assistant leader** to attend each meeting.
-- The regular helper can assist with:
-  - Attendance and uniform checks
-  - Activity preparation
-  - Small-group supervision
-  - Safety monitoring
-  - Equipment setup and cleanup
-- Additional parent volunteers may be requested for outdoor activities, special projects and field trips.
+By the end of the year, each Scout should be able to say:
 
-### More Outdoor Activities
-- Schedule more outdoor meetings when the weather is warm and suitable.
-- Possible outdoor activities include:
-  - Nature walks
-  - Outdoor games
-  - Compass and navigation practice
-  - Knot-tying projects
-  - Outdoor cooking
-  - Hiking
-  - Camp preparation
-  - Community service activities
-- Indoor backup activities should be prepared in case of rain or unsafe weather.
+> **"I built it. I tried it. I solved it. I helped my team."**
 
----
+The program has **six major two-meeting projects**, plus an indoor
+camping experience and the final outdoor camping weekend at Camp
+Opemikon.
 
-## 2. Meeting Schedule
+  -----------------------------------------------------------------------
+  Project                 Main Skills             Final Mission
+  ----------------------- ----------------------- -----------------------
+  🪢 1. Pioneering Rescue Knots & lashings        Build a stretcher /
+                                                  pioneering structure
 
-### 2026
+  📡 2. Secret Scout      Morse code              Decode a secret mission
+  Communication                                   
 
-| Month | Meeting Dates |
-|---|---|
-| September | 12, 19, 26 |
-| October | 3 — Apple Day, 17, 24, 31 |
-| November | 7, 14, 21, 28 |
-| December | 5, 12 |
+  🧭 3. Lost Scout        Compass & navigation    Navigation treasure
+  Challenge                                       hunt
 
-### 2027
+  🌲 4. Wilderness        STOP, shelter,          Build an emergency
+  Survival                signalling              shelter
 
-| Month | Meeting Dates |
-|---|---|
-| January | 9, 16, 23, 30 |
-| February | 6, 20, 27 |
-| March | 6, 13 |
-| April | 3, 10, 17, 24 |
-| May | 1, 8, 15 |
-| June | Camping weekend at Camp Opemikon — date to be confirmed |
+  🏹 5. Scout Archery     Safety, aim,            Target challenge
+  Challenge               consistency             
 
-### Facility Request
+  🔥 6. Camp Chef         Fire/cooking/camp       Prepare a camp meal
+  Challenge               skills                  
 
-When the regular Scout meeting room is unavailable, request that the temple provide access to the **gym or another large activity space**, rather than placing the group in a small classroom.
+  🏕️ Indoor Camp          Tent, sleeping,         First Scout overnight
+                          teamwork                experience
 
-A larger space is needed for:
+  🏕️ Opemikon             All skills              Real camping weekend
+  -----------------------------------------------------------------------
 
-- Physical games
-- Team challenges
-- Knot and pioneering projects
-- Indoor archery demonstrations
-- Camping equipment practice
-- Opening and closing ceremonies
-- Safe movement and supervision of the children
+Community service and environmental activities can be incorporated as
+shorter outdoor meetings throughout the year.
 
----
+------------------------------------------------------------------------
 
-## 3. Program Planning Improvements
+# 🪢 Project 1 --- Pioneering Rescue Challenge
 
-Each major topic should include:
+### Mission
 
-### One Theory Session
-Introduce the basic knowledge, terminology, safety rules and purpose of the skill.
+> **"A hiker has been injured. We don't have a stretcher. Can Scouts
+> build something to help?"**
 
-### One Practical Session
-Allow Scouts to practise the skill through a hands-on project, game or team challenge.
+This is a natural continuation from the **kite-making activity**,
+because the children already encountered the Square Knot and Japanese
+Square Lashing.
 
-Where possible, the practical activity should create a useful result or prepare the Scouts for a future outdoor activity.
+## Meeting 1 --- Knot Academy 🪢
 
----
+### 0--10 min --- Opening
 
-# 4. Proposed Program Topics
+-   Attendance, uniform check and opening ceremony.
+-   Show the kite from the previous activity.
+-   Ask: **"Who remembers how we connected these sticks?"**
+-   Let the children demonstrate before the leaders show them.
 
-## A. Knots and Pioneering
+### 10--20 min --- Knot Detective 🔍
 
-### Theory
-Teach the purpose and correct use of basic knots, including:
+Prepare several examples: - Correct Square Knot - Incorrect knot - Loose
+lashing - Strong Japanese Square Lashing
 
-- Reef knot
-- Clove hitch
-- Bowline
-- Sheet bend
-- Square lashing
-- Diagonal lashing
-- Tripod lashing
+Children inspect them and vote: - 👍 Safe - 👎 Needs fixing
 
-Scouts should learn:
+Teach the simple distinction:
 
-- How to identify each knot
-- When each knot should be used
-- How to check whether a knot is secure
-- Why the correct rope and knot must be selected
+**Square Knot → rope to rope**\
+**Square Lashing → spar to spar**
 
-### Practice
-Begin with short knot-tying stations and team relay games.
+For this age, focus on mastering **2--3 knots well** rather than
+introducing too many knots at once.
 
-### Major Project: Rope Ladder
-Scouts work together to design and build a rope ladder.
+### 20--35 min --- Lashing Station
 
-The project may include:
+Pairs receive: - Two short sticks - Rope
 
-- Measuring the rope
-- Spacing the ladder steps
-- Selecting suitable knots
-- Testing each knot
-- Learning how weight affects the structure
-- Working as a team
+Challenge:
 
-The completed ladder must be inspected by leaders before any climbing activity. It should only be used at a low and carefully supervised height.
+> **"Can you connect these sticks at 90°?"**
 
----
+Practice Japanese Square Lashing.
 
-## B. Morse Code
+### 35--45 min --- Knot Relay
 
-### Theory
-Introduce Morse code as a communication system using dots and dashes.
+Two teams compete: 1. Run to the knot station. 2. Tie the assigned
+knot/lashing. 3. Leader checks it. 4. Return and tag the next Scout.
+
+**Accuracy comes before speed.**
+
+### 45--55 min --- Introduce the Rescue Mission
+
+Bring out: - 2 × 6-ft spars - 2 × 2-ft crossbars - Rope - Tarp/blanket
+
+Tell them:
+
+> **"Next week, somebody is injured on our imaginary hiking trip. This
+> is all the equipment you have. What could you build?"**
+
+Let them design and discuss possible solutions.
+
+### 55--60 min --- Cleanup & Reflection
+
+Ask:
+
+> **"Which knot or lashing would you trust most today, and why?"**
+
+------------------------------------------------------------------------
+
+## Meeting 2 --- Rescue Mission 🚑
+
+### 0--10 min
+
+Opening + quick lashing review.
+
+### 10--15 min --- Emergency!
+
+Place a large stuffed animal on the floor.
+
+> **"Scout Bear hurt his leg and cannot walk!"**
+
+Teams receive the building materials.
+
+### 15--40 min --- BUILD!
+
+-   Four corners allow four small groups to work simultaneously.
+-   Scouts use Japanese Square Lashings to connect the spars.
+-   Leaders inspect and redo load-bearing lashings where necessary.
+
+### 40--50 min --- Rescue Course
+
+Use a stuffed animal or weighted training object rather than a child.
+
+Teams navigate around: - 🪑 "Rocks" - 🌲 "Trees" - 🌊 Imaginary river -
+⛰️ Narrow trail
+
+### 50--55 min --- Equipment Breakdown
+
+Children untie everything and organize the equipment.
+
+### 55--60 min --- Reflection
+
+Ask: - What worked? - What became loose? - What would you change?
+
+------------------------------------------------------------------------
+
+# 📡 Project 2 --- Secret Scout Communication
+
+Frame the Morse Code project as a **secret-agent mission**.
+
+## Meeting 1 --- Say My Name in Morse
+
+### 0--10 min --- Mystery Message
+
+Before explaining anything, flash:
+
+**... --- ...**
+
+Ask:
+
+> **"Does anybody know what I just said?"**
+
+Reveal **SOS**.
+
+### 10--20 min --- Morse Basics
+
+Explain: - **DOT •** - **DASH ---**
+
+Do not require 7--9-year-olds to memorize A--Z. Start with their
+**names**.
+
+Each Scout gets a Morse alphabet card and writes their name in Morse.
+
+### 20--30 min --- Partner Decoder
+
+Scout A writes a message and Scout B decodes it.
+
+Examples: - DU - CUB - BEAVER - HELP
+
+### 30--40 min --- Sound Challenge 👂
+
+Leader sends simple letters using tapping or clapping. Children identify
+them.
+
+### 40--50 min --- Flashlight Communication 🔦
+
+Dim the room if possible.
+
+-   Short flash = dot
+-   Long flash = dash
+
+Pairs send simple letters to one another.
+
+### 50--60 min --- Secret Message
+
+Every child creates one coded message for the next meeting.
+
+------------------------------------------------------------------------
+
+## Meeting 2 --- Secret Agent Mission 🕵️
+
+Turn the meeting into a **Morse treasure hunt**.
+
+### Station 1 --- Decode
+
+A Morse message says:
+
+> **"GO NORTH"**
+
+### Station 2 --- Flashlight
+
+A leader flashes the next clue.
+
+### Station 3 --- Sound
+
+Children listen to Morse tapping.
+
+### Station 4 --- Send
+
+The team must successfully send a word to a leader.
+
+### Final Station
+
+The final decoded message reveals the location of the Scout treasure.
+
+This naturally prepares the Scouts for the **Compass Project**.
+
+------------------------------------------------------------------------
+
+# 🧭 Project 3 --- Lost Scout Navigation Challenge
+
+## Meeting 1 --- Compass School
+
+### 0--10 min --- Human Compass
+
+Put four signs around the gym:
+
+**N --- E --- S --- W**
+
+Call out directions and have everyone move to the correct side. Progress
+to: - Northeast - Southeast - Southwest - Northwest
+
+### 10--20 min --- Compass Discovery
+
+Give each pair a compass.
+
+Ask:
+
+> **"Can you figure out which direction the temple entrance is?"**
+
+Then explain the basic compass features.
+
+### 20--30 min --- Pacing
+
+Mark 10 metres.
+
+Each Scout: 1. Walks the distance naturally. 2. Counts their steps. 3.
+Repeats the exercise.
+
+They discover their approximate **10-metre Scout pace count**.
+
+### 30--45 min --- Mini Course
+
+Example:
+
+**10 paces North → 5 East → 8 South**
+
+Hide an object at the destination.
+
+### 45--55 min --- Compass Relay
+
+Teams follow short directions to retrieve an object and return.
+
+### 55--60 min --- Mission Preview
+
+Tell them:
+
+> **"Next week, someone is lost."**
+
+------------------------------------------------------------------------
+
+## Meeting 2 --- Find the Missing Scout 🔎
+
+Combine skills from earlier projects.
+
+### 🧭 Station 1
+
+Follow compass directions.
+
+### 🪢 Station 2
+
+Tie a Square Knot to receive the next clue.
+
+### 📡 Station 3
+
+Decode a Morse message.
+
+### 👣 Station 4
+
+Use pacing to find the next location.
+
+### 🔍 Station 5
+
+Find the hidden Scout Bear.
+
+This connects:
+
+**Knots → Morse → Navigation**
+
+------------------------------------------------------------------------
+
+# 🌲 Project 4 --- Wilderness Survival
+
+## Meeting 1 --- What If We're Lost?
+
+### 0--10 min --- Scenario
+
+Ask:
+
+> **"You were hiking with the Scouts. You looked around and suddenly
+> couldn't see your group. What would you do?"**
+
+Let the children answer before introducing:
+
+-   **S --- Stop**
+-   **T --- Think**
+-   **O --- Observe**
+-   **P --- Plan**
+
+### 10--20 min --- Survival Bag Game 🎒
+
+Put 10--15 objects on a table, such as: - 🔦 Flashlight - 💧 Water - 🍫
+Snack - 📣 Whistle - 🧭 Compass - 🗺️ Map - 🗑️ Garbage bag - 🧸 Toy - 📚
+Book - ☂️ Umbrella
+
+Challenge:
+
+> **"You can only choose FIVE."**
+
+Teams explain their choices.
+
+### 20--30 min --- Signalling
+
+Practice whistle and visual signalling concepts safely.
+
+Discuss why staying in one place can help rescuers find a lost person.
+
+### 30--45 min --- Shelter Demonstration
+
+Show: - Tarp - Rope - Stakes - Poles
+
+Ask:
+
+> **"How could our knots help us make a shelter?"**
+
+Build a simple example.
+
+### 45--55 min --- Shelter Design
+
+Teams draw or explain the shelter they want to build next week.
+
+### 55--60 min
+
+Cleanup and reflection.
+
+------------------------------------------------------------------------
+
+## Meeting 2 --- Survive the Storm! ⛈️
+
+### 0--10 min
+
+STOP quiz/game.
+
+### 10--15 min
+
+Give each patrol: - Tarp - Rope - Pegs - Suitable poles/anchors
+
+### 15--40 min --- BUILD
+
+Children construct their emergency shelters.
+
+### 40--50 min --- The Storm Test 🌧️
+
+Put a stuffed animal inside.
+
+Test gently with: - 💨 Simulated wind - 💦 Small amount of water
+
+Ask:
+
+> **"Did your Scout Bear survive the storm and stay dry?"**
+
+### 50--55 min --- Improve
+
+Give teams five minutes to improve their shelters.
+
+### 55--60 min --- Leave No Trace
+
+Take everything down.
+
+Ask:
+
+> **"How do we know Scouts were here?"**
+
+Ideally: **you don't.**
+
+------------------------------------------------------------------------
+
+# 🏹 Project 5 --- Scout Archery Challenge
+
+Because of equipment and supervision requirements, Meeting 1 is an
+indoor preparation meeting and Meeting 2 should be an actual range
+experience with qualified supervision at an appropriate location.
+
+## Meeting 1 --- Archery Academy
+
+### 0--10 min --- Bow Investigation
+
+Introduce: - 🏹 Bow - ➡️ Arrow - 🎯 Target - 🪶 Fletching
+
+### 10--20 min --- Range Safety Game
+
+Put a shooting line on the floor.
+
+Play **SAFE or UNSAFE?**
+
+Example:
+
+> "Someone walks forward while another person is shooting."
+
+❌ Unsafe
+
+> "Everyone waits behind the shooting line."
+
+✅ Safe
+
+### 20--30 min --- How Does an Arrow Fly?
+
+Use a simple demonstration rather than a physics lecture.
+
+Explain: - Gravity pulls the arrow downward. - Distance affects
+aiming. - Consistent posture and release improve accuracy.
+
+### 30--40 min --- Form Without Shooting
+
+Practice: - Feet - Posture - Aim - Controlled movement
+
+### 40--50 min --- Target Game
+
+Use beanbags or balls and floor targets to introduce: - 🎯 Aim - 🎯
+Consistency - 🎯 Scoring
+
+### 50--60 min --- Safety Quiz
+
+Scouts demonstrate their understanding of the safety rules before
+participating in Meeting 2.
+
+------------------------------------------------------------------------
+
+## Meeting 2 --- Archery Mission 🎯
+
+Under qualified range supervision: - Begin with large targets and
+age-appropriate distances. - Focus on safety, consistency and
+improvement.
+
+Possible challenges: - 🎯 Colour Challenge - 🎯 Personal Best - 🎯 Team
+Total - 🎯 Hit the Giant Target
+
+Emphasize:
+
+> **"Beat your previous result."**
+
+rather than only competing against other Scouts.
+
+------------------------------------------------------------------------
+
+# 🔥 Project 6 --- Camp Chef Challenge
+
+This project prepares Scouts for both indoor camping and Camp Opemikon.
+
+## Meeting 1 --- Camp Kitchen
+
+### 0--10 min --- What Would You Pack?
+
+Display items such as: - 🍳 Pan - 🥘 Pot - 🥄 Utensils - 💧 Water - 🔥
+Stove - 🧼 Cleaning supplies - 🧊 Cooler
+
+Mix in some unnecessary items.
+
+Children decide what belongs in a camp kitchen.
+
+### 10--20 min --- Fire Triangle
 
 Teach:
 
-- Letters A–Z
-- Numbers 0–9
-- Short words and names
-- The international distress signal SOS
-- Methods of sending Morse code using:
-  - Sound
-  - Flashlights
-  - Flags
-  - Written symbols
+**Heat + Fuel + Oxygen**
 
-### Practice
+Ask how a fire can be extinguished by removing one element.
 
-#### Listening Test
-- Leaders play several short Morse code signals.
-- Scouts identify the letters, numbers or words.
-- Begin with simple letters before progressing to short messages.
+### 20--30 min --- Camp Kitchen Safety
 
-#### Send Your Code
-- Scouts create a short coded message.
-- A partner or another team must decode it.
-- Messages may include:
-  - The Scout’s name
-  - A Beaver or Cub motto
-  - A simple instruction
-  - A hidden clue
+Discuss: - Handwashing - Raw/cooked food separation - Hot equipment -
+Stove safety - Water - Cleanup
 
-### Game Idea
-Create a Morse-code treasure hunt in which each decoded message leads to the next station.
+### 30--45 min --- Menu Challenge
 
----
+Give teams a pretend budget or ingredient cards.
 
-## C. Archery
+Challenge:
 
-### Safety First
-Before handling any equipment, Scouts must learn:
+> **"Feed four Scouts breakfast at camp."**
 
-- Follow the range leader’s instructions
-- Never point a bow or arrow at another person
-- Only shoot when the range is declared clear
-- Remain behind the shooting line
-- Do not collect arrows until permission is given
-- Carry arrows safely
-- Check equipment before use
-- Wear appropriate arm and finger protection when required
+Teams create a menu.
 
-Archery activities should be led by qualified instructors and conducted at an approved location.
+### 45--55 min --- Kitchen Setup
 
-### Theory: How an Arrow Flies
-Introduce the basic flight path of an arrow:
+Teams organize a pretend camp kitchen.
 
-- The arrow does not normally travel in a perfectly straight line
-- Gravity causes the arrow to drop
-- The shooting angle affects the arrow’s path
-- Distance affects aiming
-- Consistent posture and release improve accuracy
+### 55--60 min --- Mission Preview
 
-### Practice: Target Shooting
-Use age-appropriate equipment and targets.
+Announce:
+
+> **"Next week YOU are the Camp Chefs!"**
+
+------------------------------------------------------------------------
+
+## Meeting 2 --- Scout MasterChef 👨‍🍳
+
+### 0--10 min
+
+Handwashing and safety review.
+
+### 10--15 min --- Assign Jobs
+
+-   👨‍🍳 Cook
+-   🥕 Food prep
+-   💧 Safety/water
+-   🧽 Cleanup
+
+### 15--40 min --- Cook
+
+Prepare a simple meal or snack under adult supervision.
+
+Pancakes can work particularly well because children can measure, mix
+and observe cooking.
+
+### 40--50 min --- Eat Together
+
+Enjoy the food as a group.
+
+### 50--57 min --- Cleanup Challenge
+
+Teach:
+
+> **"Cooking isn't finished until everything is clean."**
+
+Teams clean and organize their stations.
+
+### 57--60 min --- Reflection
+
+Ask:
+
+> **"What meal would you like to make at Opemikon?"**
+
+------------------------------------------------------------------------
+
+# 🏕️ Indoor Temple Camp --- Scout Camp Practice Night
+
+Treat indoor camping as a **dress rehearsal for Camp Opemikon**, rather
+than simply sleeping inside the temple.
 
 Possible activities:
 
-- Large-target accuracy practice
-- Colour-zone scoring
-- Balloon or paper target games
-- Team score challenge
-- Distance progression
-- Personal improvement challenge
+### ⛺ Tent Challenge
 
-The focus should be on safety, control and personal improvement rather than competition alone.
+Teams set up their tents.
 
----
+### 🎒 Pack Inspection
 
-## D. Camping Preparation
+Children unpack their bags and discuss what they remembered or forgot.
 
-Camping preparation should be divided into several meetings before the June camping weekend.
+### 🔥 Camp Kitchen
 
-### 1. Camp Planning
+Apply skills from the Camp Chef project.
 
-Scouts learn how to prepare before leaving home.
+### 🔦 Flashlight Morse Game
 
-Topics include:
+Connect back to Project 2.
 
-- Checking the weather
-- Choosing suitable clothing
-- Preparing a personal packing list
-- Packing shared equipment
-- Assigning team responsibilities
-- Understanding the campsite rules
-- Following the buddy system
-- Preparing for rain and cold weather
+### 🧭 Night Navigation
 
----
+Complete a simple flashlight/compass challenge.
 
-### 2. Camp Cooking
+### 🪢 Knot Challenge
 
-#### Theory
-Discuss how to plan a simple camping meal.
+Connect back to Project 1.
 
-Scouts should consider:
+### 🎭 Campfire-Style Program
 
-- Number of campers
-- Allergies and dietary restrictions
-- Food storage
-- Cooking time
-- Water requirements
-- Cleanup
-- Waste reduction
-- Safe food temperatures
+Even without a real fire: - Songs - Skits - Stories - Buddhist/Scout
+reflection
 
-#### Food Planning
-Possible meals include:
+Then sleeping bags and lights out.
 
-- Sandwiches or wraps
-- Pasta
-- Soup
-- Rice and vegetables
-- Pancakes
-- Oatmeal
-- Fruit
-- Simple campfire snacks
+The following morning, Scouts pack their own equipment and help clean
+the temple space.
 
-Scouts may work in teams to prepare a sample camping menu.
+Indoor camping becomes the year's **practice camp**, preparing everyone
+for the outdoor camping weekend.
 
-#### Cookware and Equipment
-Introduce common camp cooking equipment:
+------------------------------------------------------------------------
 
-- Camp stove
-- Fuel
-- Pot and frying pan
-- Kettle
-- Cutting board
-- Cooking utensils
-- Plates, bowls and cups
-- Dishwashing tubs
-- Water container
-- Cooler
-- Garbage and recycling bags
+# 🏕️ Camp Opemikon --- The Final Mission
 
-#### Practice
-Possible activities:
+By the time the Scouts arrive at Opemikon, avoid teaching everything
+again.
 
-- Prepare a no-cook snack
-- Plan one complete camp meal
-- Practise setting up a camp kitchen
-- Learn safe stove procedures through demonstration
-- Practise washing and storing dishes
+Instead tell them:
 
-Cooking equipment and open flames must only be used under close adult supervision.
+> **"You've trained all year. Now it's time to use your Scout skills for
+> real."**
 
----
+Previous projects can reappear naturally:
 
-### 3. Sleeping and Shelter
+-   🪢 **Knots** → campsite setup
+-   📡 **Morse** → evening flashlight game
+-   🧭 **Compass** → navigation course
+-   🌲 **Survival** → shelter/nature activity
+-   🔥 **Cooking** → meal preparation
+-   🏹 **Outdoor skills** → supervised camp activities
+-   🤝 **Teamwork** → campsite responsibilities
 
-#### Tent
-Teach Scouts:
+This gives the entire Scout year a clear progression rather than a
+collection of unrelated meetings.
 
-- Different types of tents
-- How to select a safe tent location
-- How to lay out a groundsheet
-- How to assemble poles
-- How to secure pegs and guy lines
-- How to keep the tent dry
-- Why food should not be stored inside the sleeping tent
+------------------------------------------------------------------------
 
-#### Practical Activity
-Teams practise setting up and taking down a tent.
+# Recommended 60-Minute Meeting Structure
 
-They should learn to:
+  Time             Activity
+  ---------------- ------------------------------------------------
+  **0--8 min**     Arrival, uniform check, attendance and opening
+  **8--15 min**    🎭 Mission / Story Hook
+  **15--25 min**   🧠 Demonstration + skill
+  **25--45 min**   🛠️ Main hands-on challenge
+  **45--52 min**   🎮 Game / test / team challenge
+  **52--56 min**   🧹 Scouts clean up
+  **56--60 min**   💬 Reflection + closing
 
-- Work in assigned roles
-- Keep tent parts organized
-- Fold the tent correctly
-- Check that no equipment is left behind
+## Use a Mission Hook
 
-#### Sleeping Mats and Sleeping Bags
-Explain:
+Instead of:
 
-- Why a sleeping mat provides insulation
-- The difference between sleeping bags for warm and cold weather
-- How to keep sleeping equipment dry
-- What clothing should be worn at night
-- How to roll or pack a sleeping bag
+> "Today we're learning Morse code."
 
-#### Camping Lights
-Introduce safe lighting options:
+Say:
 
-- Headlamps
-- Flashlights
-- Battery-powered lanterns
-- Spare batteries
+> **"Scouters intercepted a secret message. We have 45 minutes to figure
+> out what it says."**
 
-Remind Scouts:
+Instead of:
 
-- Do not shine lights into people’s eyes
-- Keep lights accessible at night
-- Avoid open-flame lighting inside tents
-- Turn off unnecessary lights to conserve batteries
+> "Today we're learning compass."
 
----
+Say:
 
-### 4. Camp Games and Team Activities
+> **"Scout Bear is missing somewhere outside the temple. We need a
+> rescue team."**
 
-Possible camping games include:
+Instead of:
 
-- Scavenger hunt
-- Nature bingo
-- Compass course
-- Flashlight signal game
-- Knot relay
-- Tent setup challenge
-- Silent communication challenge
-- Capture the flag
-- Outdoor obstacle course
-- Campfire skits
-- Storytelling
-- Team-building challenges
+> "Today we're practicing lashings."
 
-Games should emphasize:
+Say:
 
-- Cooperation
-- Leadership
-- Listening
-- Problem-solving
-- Outdoor awareness
-- Respect for nature
+> **"Someone is injured and we don't have a stretcher. You have six
+> pieces of equipment. Solve the problem."**
 
----
+This small change makes the same educational material feel like an
+**adventure** to a 7--9-year-old.
 
-## 5. Suggested Meeting Structure
+------------------------------------------------------------------------
 
-A typical 60-minute meeting may follow this format:
+# Scout Skills Passport 📕⭐
 
-| Time | Activity |
-|---|---|
-| 10 minutes | Arrival, attendance, uniform check and opening ceremony |
-| 10–15 minutes | Theory or skill introduction |
-| 25–30 minutes | Hands-on activity, project or game |
-| 5–10 minutes | Cleanup, review and closing ceremony |
+Give every child a simple **2026--2027 Buddha's Light Scout Skills
+Passport**.
 
-For larger projects, one meeting may introduce the theory and begin preparation, while the following meeting focuses on completing the practical activity.
+After completing each project, Scouts receive a stamp or sticker:
 
----
+  Project            Achievement
+  ------------------ ------------------------
+  🪢 Pioneering      **BUILDER**
+  📡 Morse           **COMMUNICATOR**
+  🧭 Navigation      **EXPLORER**
+  🌲 Survival        **SURVIVOR**
+  🏹 Archery         **MARKSMANSHIP**
+  🔥 Cooking         **CAMP CHEF**
+  🏕️ Indoor Camp     **CAMPER**
+  🏕️ Camp Opemikon   **OUTDOOR ADVENTURER**
 
-## 6. Additional Planning Recommendations
+The passport gives Scouts something tangible to work toward throughout
+the year without making every activity about winning.
 
-- Prepare a monthly activity plan at least four weeks in advance.
-- Confirm the meeting location before sending the parent notice.
-- Prepare an indoor backup plan for outdoor meetings.
-- Create an equipment checklist for every activity.
-- Identify activities that require additional parent volunteers.
-- Include a safety briefing before every physical or outdoor activity.
-- Take photographs of completed projects when appropriate.
-- End each activity with a short reflection:
-  - What did we learn?
-  - What worked well?
-  - What was difficult?
-  - How could we improve next time?
-- Connect activities to Scout values such as helping others, teamwork, responsibility, respect and care for the environment.
+It also gives parents a clear picture of what their children are
+learning through Buddha's Light Scouts.
+
+------------------------------------------------------------------------
+
+# Program Planning Principles
+
+-   Arrange for at least **one regular helper or assistant leader** at
+    each meeting.
+-   Use outdoor spaces whenever weather and safety permit.
+-   Prepare an indoor backup activity for outdoor meetings.
+-   Plan major topics as **two-meeting projects**.
+-   Keep theory short and interactive.
+-   Use stories, missions, games and challenges to introduce skills.
+-   Prepare equipment at least one meeting in advance.
+-   Identify activities requiring additional parent volunteers.
+-   Conduct a safety briefing before physical or outdoor activities.
+-   Have leaders inspect any load-bearing pioneering structure before
+    use.
+-   Use qualified supervision and approved facilities for archery.
+-   Closely supervise cooking equipment, stoves and heat sources.
+-   Take photographs of completed projects when appropriate.
+-   End every project with a short reflection:
+    -   What did we learn?
+    -   What worked?
+    -   What was difficult?
+    -   What would we change next time?
+-   Connect activities to Scout values:
+    -   Helping others
+    -   Teamwork
+    -   Responsibility
+    -   Leadership
+    -   Respect
+    -   Care for the environment
